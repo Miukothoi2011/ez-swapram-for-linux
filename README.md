@@ -11,3 +11,6 @@ Ubuntu/Debian: `apt-get install git`
 Arch Linux: `pacman -S git`
 
 Other: https://git-scm.com/download/linux
+
+### If having issue like: `bugs, error,...`, Go to `Issues` Tabs
+### If having new thing, Go to `Pull requests` Tabs

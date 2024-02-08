@@ -6,8 +6,8 @@ To run script, run command: `git clone https://github.com/Miuthoi123/ez-swapram-
 
 If Git command error like: git: command not found, install Git by run command: 
 
-Ubuntu/Debian: `sudo apt-get install git`
+Ubuntu/Debian: `apt-get install git`
 
-Arch Linux: `sudo pacman -S git`
+Arch Linux: `pacman -S git`
 
 Other: https://git-scm.com/download/linux
